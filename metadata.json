@@ -1,0 +1,6 @@
+{
+  "name": "OpportunityOS",
+  "description": "AI-powered opportunity discovery and application assistant for university students and early-career talent in Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
